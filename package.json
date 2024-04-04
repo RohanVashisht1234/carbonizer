@@ -1,0 +1,25 @@
+{
+  "name": "carbonizer",
+  "displayName": "carbonizer",
+  "description": "A syntax highlighter for the Carbon programming language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "carbon",
+      "aliases": ["carbon", "carbon"],
+      "extensions": [".carbon"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "carbon",
+      "scopeName": "source.carbon",
+      "path": "./syntaxes/carbon.tmLanguage.json"
+    }]
+  }
+}
