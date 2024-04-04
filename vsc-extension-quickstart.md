@@ -2,7 +2,7 @@
 
 ## This is a syntax highlighter for the Carbon programming lanugage.
 
-![Screenshot of vscode IDE running carbnizer extension](./screenshots/screenshot.png)
+![Screenshot of vscode IDE running carbnizer extension](https://github.com/RohanVashisht1234/carbonizer/blob/main/screenshots/screenshot.png?raw=true)
 
 
 #### Author: [Rohan Vashisht](https://github.com/RohanVashisht1234)
