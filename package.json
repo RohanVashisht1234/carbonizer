@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.87.0"
   },
+  "repository": "https://github.com/RohanVashisht1234/carbonizer",
   "categories": [
     "Programming Languages"
   ],
