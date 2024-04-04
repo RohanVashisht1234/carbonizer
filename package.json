@@ -1,8 +1,10 @@
 {
   "name": "carbonizer",
+  "icon": "./icon/icon.png",
   "displayName": "carbonizer",
   "description": "A syntax highlighter for the Carbon programming language",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "RohanVashisht",
   "engines": {
     "vscode": "^1.87.0"
   },
