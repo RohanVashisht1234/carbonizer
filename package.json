@@ -3,7 +3,7 @@
   "icon": "./icon/icon.png",
   "displayName": "carbonizer",
   "description": "A syntax highlighter for the Carbon programming language",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Rohan Vashisht",
   "publisher": "RohanVashisht",
   "engines": {
